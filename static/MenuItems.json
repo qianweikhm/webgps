@@ -1,0 +1,41 @@
+{
+    "MenuItems": [
+        {
+            "index": 0,
+            "item": "社区"
+        },
+        {
+            "index": 1,
+            "item": "团队"
+        },
+        {
+            "index": 2,
+            "item": "框架"
+        },
+        {
+            "index": 3,
+            "item": "UI"
+        },
+        {
+            "index": 4,
+            "item": "框架"
+        },
+        {
+            "index": 5,
+            "item": "类库"
+        },
+        {
+            "index": 6,
+            "item": "语言"
+        },
+        {
+            "index": 7,
+            "item": "CSS"
+        },
+        {
+            "index": 8,
+            "item": "图标"
+        }
+    ]
+}
+
